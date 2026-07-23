@@ -1,5 +1,5 @@
 {
-  "name": "pi-extension-template",
+  "name": "@spriteday/pi-system-prompt",
   "version": "0.0.1-alpha",
   "packageManager": "pnpm@11.5.2",
   "private": true,
@@ -22,6 +22,9 @@
   "dependencies": {
   },
   "devDependencies": {
+    "@biomejs/biome": "2.0.6",
+    "@types/node": "24.10.1",
+    "typescript": "^6",
     "@earendil-works/pi-agent-core": "0.81.0",
     "@earendil-works/pi-ai": "0.81.0",
     "@earendil-works/pi-coding-agent": "0.81.0",
