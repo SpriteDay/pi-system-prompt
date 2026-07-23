@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "biomejs.biome", // Biome plugin for formatting
+        "ms-vscode.vscode-typescript-next" // TypeScript plugin
+    ]
+}
